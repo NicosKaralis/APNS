@@ -4,7 +4,13 @@ a gem for the Apple Push Notification Service.
 
 h2. Install
 
-sudo gem install apns
+Add to Gemfile
+
+<pre>
+  <code>
+    gem 'apns', :git => "https://github.com/NicosKaralis/APNS.git"
+  </code>
+</pre>
 
 h2. Setup:
 
